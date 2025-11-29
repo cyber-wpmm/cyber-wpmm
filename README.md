@@ -16,7 +16,6 @@ Cybersecurity student at AUT passionate about network security, system administr
 - System Administration (Windows Server, Linux)
 - Vulnerability Assessment & Penetration Testing
 - Bash Scripting & Automation
-- Active Directory & PowerShell
 
 ## Recreational Interest: 
 
